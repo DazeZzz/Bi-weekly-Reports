@@ -18,8 +18,10 @@ In order to minimize the danger of entering the wrong branch name, I **strongly*
 ```
 //Create a local branch with the same name as the remote branch.
 git branch *remote_branch_name*
+
 //Switch to the new branch.
 git switch *remote_branch_name*
+
 //Set the upstream branch for the new branch.
 git branch --set-upstream-to=*remote_branch_name*
 ```
