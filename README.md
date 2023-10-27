@@ -9,7 +9,7 @@ For push your report from locally, you should add this remote repository to your
 git remote add origin https://github.com/DazeZzz/Bi-weekly-Reports.git
 ```
 
-If you want to push your report, you should running:
+If you want to push your report, you should run:
 ```
 git push origin *local_branch_name*:*branch_name*
 ```
