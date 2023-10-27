@@ -13,7 +13,7 @@ If you want to push your report, you should running:
 ```
 git push origin *local_branch_name*:*branch_name*
 ```
-In the command above, *local_branch_name* is your local `Git` branch name(usually `master`), and *branch_name* is the branch name associated with you in this repository. You should replace them in actual use.
+In the command above, `*local_branch_name*` is your local `Git` branch name(usually `master`), and `*branch_name*` is the branch name associated with you in this repository. You should replace them in actual use.
 
 ### Do's and Don'ts
 * You **should** put your **own** report in your own branch.
