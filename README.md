@@ -6,10 +6,12 @@ This repository has **six** branches in addition to the `main` branch. **Six** b
 **You need to put your report on the branch associated with your name every two weeks.** To do this, you first need to fork the `main` branch of this repository, then write your report locally and use `Git` to push it to your fork. Finally, you need to create a `PR(Pull Request)` to submit your report from your fork to the branch of this repository that corresponds to you. I will briefly describe the steps of this process, so you can skip them if you're already familiar with them.
 
 ### Fork this repository
-Click the `fork` button.\
+Click the `fork` button.
+
 ![](images/fork1.png)
 
-**Make sure** you check "copy the `main` branch only", then click `Create fork`.\
+**Make sure** you check "copy the `main` branch only", then click `Create fork`.
+
 ![](images/fork2.png)
 
 Now you have a repository called `Bi-weekly-Reports`.
@@ -30,13 +32,16 @@ In the command above, `LOCAL_BRANCH_NAME` is your local `Git` branch name(usuall
 
 ### Create a Pull Request
 
-Choose `Pull Requests` and click `New pull request`.\
+Choose `Pull Requests` and click `New pull request`.
+
 ![](images/PR1.png)
 
-Choose `base repository`(this repository) and `head repository`(your fork), then choose `base`(the branch of this repository associated with your name) and `compare`(the branch of your fork)\
+Choose `base repository`(this repository) and `head repository`(your fork), then choose `base`(the branch of this repository associated with your name) and `compare`(the branch of your fork)
+
 ![](images/PR2.png)
 
-### Click `Create pull request`.\
+Click `Create pull request`.
+
 ![](images/PR3.png)
 
 All your work has been done by now, and I will merge your `PR` to the branch associated with your name.\
