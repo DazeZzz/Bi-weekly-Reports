@@ -28,7 +28,7 @@ If you want to push your report to your fork, you should run:
 ```
 git push origin LOCAL_BRANCH_NAME:REMOTE_BRANCH_NAME
 ```
-In the command above, `LOCAL_BRANCH_NAME` is your local `Git` branch name(usually `master`), and `REMOTE_BRANCH_NAME` is the branch name in your fork(`main` If you haven't made any changes).
+In the command above, `LOCAL_BRANCH_NAME` is your local `Git` branch name(usually `master`), and `REMOTE_BRANCH_NAME` is the branch name in your fork(`main` if you haven't made any changes).
 
 ### Create a Pull Request
 
