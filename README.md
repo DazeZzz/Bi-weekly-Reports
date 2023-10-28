@@ -5,7 +5,7 @@ This repository has **six** branches in addition to the `main` branch. **Six** b
 ## To my teammates
 **You need to put your report on the branch associated with your name every two weeks.** To do this, you first need to fork the `main` branch of this repository, then write your report locally and use `Git` to push it to your fork. Finally, you need to create a `PR(Pull Request)` to submit your report from your fork to the branch of this repository that corresponds to you. I will briefly describe the steps of this process, so you can skip them if you're already familiar with them.
 
-#### Fork this repository
+### Fork this repository
 Click the `fork` button.
 ![](images/fork1.png)
 
@@ -14,7 +14,7 @@ Click the `fork` button.
 
 Now you have a repository called `Bi-weekly-Reports`.
 
-#### Write your report locally and push it to your fork
+### Write your report locally and push it to your fork
 
 You can write your report locally and use `Git` to push it to your fork. The form of the report is not specified, but `Markdown` is recommended because it's really convenient and easy to read and write, and `Github` supports it well.\
 For push your report from locally, you should add your fork to your local `Git` repository by running the following command:
@@ -28,7 +28,7 @@ git push origin LOCAL_BRANCH_NAME:REMOTE_BRANCH_NAME
 ```
 In the command above, `LOCAL_BRANCH_NAME` is your local `Git` branch name(usually `master`), and `REMOTE_BRANCH_NAME` is the branch name in your fork(`main` If you haven't made any changes).
 
-#### Create a Pull Request
+### Create a Pull Request
 
 Choose `Pull Requests` and click `New pull request`.
 ![](images/PR1.png)
@@ -36,7 +36,7 @@ Choose `Pull Requests` and click `New pull request`.
 Choose `base repository`(this repository) and `head repository`(your fork), then choose `base`(the branch of this repository associated with your name) and `compare`(the branch of your fork)
 ![](images/PR2.png)
 
-#### Click `Create pull request`.
+### Click `Create pull request`.
 ![](images/PR3.png)
 
 All your work has been done by now, and I will merge your `PR` to the branch associated with your name.\
