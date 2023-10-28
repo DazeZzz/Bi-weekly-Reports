@@ -50,5 +50,6 @@ You can also browse the offical documentation if you have any difficulties durin
 [Git documentation](https://git-scm.com/doc)\
 [Github documentation](https://docs.github.com/en)
 
+If you have any suggestions about how to submit the report, feel free to contact me.
 ## Todo
 - [ ] Submit your report every two weeks.
