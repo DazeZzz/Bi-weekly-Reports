@@ -46,8 +46,8 @@ Click `Create pull request`.
 
 All your work has been done by now, and I will merge your `PR` to the branch associated with your name.\
 You can also browse the offical documentation if you have any difficulties during your submission:\
-[Git](https://git-scm.com/doc)\
-[Github](https://docs.github.com/en)
+[Git documentation](https://git-scm.com/doc)\
+[Github documentation](https://docs.github.com/en)
 
 ## Todo
 - [ ] Submit your report every two weeks.
