@@ -40,6 +40,7 @@ Choose `base repository`(this repository) and `head repository`(your fork), then
 
 ![](images/PR2.png)
 
+**Make sure** the correct branch has been chosen, otherwise I will not merge your `PR`.\
 Click `Create pull request`.
 
 ![](images/PR3.png)
