@@ -11,6 +11,6 @@ In the second half of the week, I finished the `Experimental Report` of `Distrib
 **Other:**\
 In addition to the above work, I also finished the the book `Effective Modern C++`, and I begin to read a book called `Functional Programming in C++`.
 
-**Some helpful page:**\
+**Some helpful pages:**\
 [raft](http://thesecretlivesofdata.com/raft/)\
 [visualising data structure and algorithms](https://visualgo.net/en)
